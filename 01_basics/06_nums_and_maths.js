@@ -28,7 +28,6 @@ console.log(hundreds.toLocaleString('en-IN'));
 // console.log(Math.min(2, 9, 4, 5, 7))
 // console.log(Math.max(2, 9, 4, 5, 7))
 
-
 console.log(Math.floor(Math.random() * 10) + 1)
 
 const min = 10
