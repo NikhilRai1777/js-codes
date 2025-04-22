@@ -21,7 +21,7 @@ const myArr3 = new Array(1, 2, 3, 4, 5)
 // console.log(myArr.indexOf(5))
 
 
-// const newArr = myArr.join();
+const newArr = myArr.join();
 
 // console.log(myArr)
 // console.log(typeof myArr)
